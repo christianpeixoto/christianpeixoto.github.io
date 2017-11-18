@@ -57,4 +57,4 @@ Agente Postal - Correios - 1994 - 1998
 
 ## Education / Educação
 
-- Bacharel em Administração de Empresas - Universidade Estácio
+- Bacharel em Administração de Empresas - Universidade Estácio de Sá
