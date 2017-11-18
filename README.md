@@ -12,7 +12,7 @@ Já construí microsserviços e sistemas monolíticos em Java, Python e xBase, a
 
 ## Work Experience / Experiência
 
-Analista de sistema sẽnior - Correios - 2006 - presente
+Analista de sistema sênior - Correios - 2006 - presente
 
 - Desenvolvi software standalone para separar e ordenar um lista de endereços postais por toda a rede de distribuição de carteiros.
 - Desenvolvi sistema web para registrar saída e retorno de carteiros, verificando discrepâncias e com informações visuais e relatórios para 3 níveis de gestão.
