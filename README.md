@@ -6,7 +6,7 @@ christianpeixoto@gmail.com
 
 ## Summary / Sumário
 
-I've already built microservices and monolithycal systems in Java, Python and xBase, besides Cordova apps, websites and Telegram bots. I also managed multilanguage projects either with Agile or with most traditional way.
+I've already built microservices and monolithic systems in Java, Python and xBase, besides Cordova apps, websites and Telegram bots. I also managed multilanguage projects either with Agile or with most traditional way.
 
 Já construí microsserviços e sistemas monolíticos em Java, Python e xBase, além de aplicativos Cordova, sites HTML/CSS e bots para Telegram. Também já coordenei equipes multidisciplinares ágeis e convencionais.
 
