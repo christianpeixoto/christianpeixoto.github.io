@@ -6,26 +6,26 @@ christianpeixoto@gmail.com
 
 ## Summary / Sumário
 
-I've already built microservices and monolithic systems in Java, Python and xBase, besides Cordova apps, websites and Telegram bots. I also managed multilanguage projects either with Agile or with most traditional way.
+Senior Developer with 20+ years of experience on sensitive corporate environment, improved code building in many ways. I optimized in 90% the blocking system execution to Correios clients. I reduced to 1 week the time needed to create basic indoor software, by using a RAD method. I got a praize for managing the software architecture team from AGU. I'm an enthusiastic team player and deep creative thinker.
 
-Já construí microsserviços e sistemas monolíticos em Java, Python e xBase, além de aplicativos Cordova, sites HTML/CSS e bots para Telegram. Também já coordenei equipes multidisciplinares ágeis e convencionais.
+Desenvolvedor Sênior com 20+ anos de experiência em ambiente corporativo, melhorei a construção de código em vários aspectos. Otimizei em 90% a execução do sistema de blocagem de clientes dos Correios. Reduzi para 1 semana o tempo de criação de sistemas básicos internos, utilizando um método RAD. Recebi um prêmio na condução da equipe de arquitetura da AGU. Sou efetivo colaborador em equipes e um pensador criativo.
 
 ## Work Experience / Experiência
 
 #### Analista de sistema sênior - Correios - 2006 - presente
 
-- Desenvolvi software standalone para separar e ordenar um lista de endereços postais por toda a rede de distribuição de carteiros.
+- Desenvolvi software standalone para separar e ordenar, em 15 minutos, listas de até 2 milhões de endereços postais seguindo as regras de distribuição da rede de carteiros, otimizando em 90% o método anterior. 
 - Desenvolvi sistema web para registrar saída e retorno de carteiros, verificando discrepâncias e com informações visuais e relatórios para 3 níveis de gestão.
 - Treinei equipe de desenvolvimento da Regional Brasília/DF para utilizar metodologia ágil.
-- Desenvolvi método RAD para criação de sistemas regionais simples.
+- Utilizei método RAD para criação de sistemas regionais simples, reduzindo para 1 semana o tempo de desensolvimento.
 - Participei do primeiro projeto SCRUM da Central Nacional como desenvolvedor e SCRUM Master.
-- Trabalhei como desenvolvedor em vários projetos da Central Nacional
+- Trabalhei como desenvolvedor em vários projetos da Central Nacional no modelo tradicional.
 
 #### Gerente de Arquitetura, Modelagem e Qualidade - Advocacia-Geral da União (AGU) - 2008 - 2010
 
-- Coordenei a equipe de desenvolvimento de C# e Java para construir soluções para comunicação de processos entre os próprios advogados e com os tribunais federais.
+- Coordenei a equipe de desenvolvimento de C# e Java para construir soluções para comunicação de processos entre os próprios advogados e com os tribunais federais, aumentando a celeridade nos recursos judiciais.
 - Construí e implantei soluções de transferência de dados entre a AGU e os TRF-1 e TRF-4.
-- Implantei e atualizei código do sistema de gestão de mudanças [TRAC](https://pt.wikipedia.org/wiki/Trac) em Python. 
+- Implantei e atualizei código do sistema de gestão de mudanças [TRAC](https://pt.wikipedia.org/wiki/Trac) em Python.
 
 #### Coordenador de Análise, Design e Implementação - SupportComm - 2004 - 2004
 
@@ -33,12 +33,12 @@ Já construí microsserviços e sistemas monolíticos em Java, Python e xBase, a
 
 #### Consultor - OpenConcept - 2003 - 2003
 
-- Desenvolvi rotinas de integração e migração do sistema SCADA para Banco Postal/Bradesco em Java.
+- Desenvolvi rotinas de integração e migração do sistema SCADA e Banco Postal/Bradesco em Java para atender milhares de agências.
 
 #### Programador/Líder de projeto - CTIS - 1998 - 2004
 
 - Atuei como líder de projeto responsável pela equipe de desenvolvimento do cliente Correios.
-- Desenvolvi e implantei o sistema de agências dos Correios - SCADA em Clipper/xHarbour (32 bits).
+- Desenvolvi e implantei o sistema de agências dos Correios - SCADA em Clipper/xHarbour (32 bits), possibilitando a utilização e integração de uma das maiores redes internas da América Latina.
 - Desenvolvi funções em Clipper para interfaces em C/C++ com totens de auto-atendimento.
 - Criei rotinas de impressão em Visual Basic para o sistema de agências.
 
@@ -50,10 +50,12 @@ Já construí microsserviços e sistemas monolíticos em Java, Python e xBase, a
 
 ## Side Projects / Projetos extras
 
-- [Populator, Repository e Scanner](https://github.com/brasilti)
-- Álbum [Memorable](https://github.com/christianpeixoto/linguanervosa/tree/master/album1), escrito em Java com biblioteca JFugue, publicado no [Google Play](https://play.google.com/store/music/album/Christian_Memorable?id=Bi44jtbvfm37ohjpyy6rlt6wxru&hl=pt-BR)
-- [Livros de poesia e ensaio](https://github.com/christianpeixoto/Livros)
-- Escrevendo livro de introdução ao desenvolvimento de software com Java, desde a conversa com o cliente até a publicação do sistema, passando por TDD, Git e Design Patterns. 
+- Desenvolvi, com amigos, ferramentas Java de licença Open Source, para auxiliar a construção de códigos e testes: [Populator, Repository e Scanner](https://github.com/brasilti)
+- Compus, cantei e produzi, com todos os instrumentos programados em Java, o álbum [Memorable](https://github.com/christianpeixoto/linguanervosa/tree/master/album1), publicado no [Google Play](https://play.google.com/store/music/album/Christian_Memorable?id=Bi44jtbvfm37ohjpyy6rlt6wxru&hl=pt-BR)
+- Planejei e editei todos os vídeos do álbum Memorable, disponível no [YouTube](https://www.youtube.com/playlist?list=PLawgaBHRDfBQZnnJvTcc-ds7lEX-HCEAj)
+- Escrevi alguns [livros de poesia e um ensaio](https://github.com/christianpeixoto/Livros)
+- Estou escrevendo livro de introdução ao desenvolvimento de software com Java para iniciantes, desde a primeira conversa com o cliente até a publicação do sistema, passando por TDD, Git e Design Patterns.
+- Estou compondo um novo álbum somente voz e violão, utilizando Audacity.
 
 ## Education / Educação
 
